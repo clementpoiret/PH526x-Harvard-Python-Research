@@ -31,3 +31,5 @@ Key points:
 - Learn the basics of random forest methods for regression and classification,
 - Learn how to use scikit-learn to fit a random forest model,
 - Apply the techniques learned to analyze a dataset of movies.
+
+Final grade: 91%
